@@ -417,17 +417,6 @@ Make sure to use actual UUIDs returned by PostgreSQL and Firestore, not placehol
 
 **Note:** This project is an assignment implementation. Production deployment should additionally include authentication, authorization, rate limiting, Firestore security controls, and stronger operational monitoring.
 
-## 🚧 Future Improvements
-
-- Group chat functionality.
-- Edit and delete messages.
-- Real-time messaging using Firestore listeners or WebSockets.
-- Online/offline user status.
-- Unread message counts.
-- Message delivery receipts.
-- Authentication using JWT.
-- Automated unit and integration tests.
-- Cursor-based message pagination.
 
 ## 👨‍💻 Author
 
